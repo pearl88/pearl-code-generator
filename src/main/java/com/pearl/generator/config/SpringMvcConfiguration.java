@@ -10,7 +10,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupp
  * @since 2022/6/29
  */
 @Configuration
-public class MvcConfigController extends WebMvcConfigurationSupport {
+public class SpringMvcConfiguration extends WebMvcConfigurationSupport {
 
     private static final String[] CLASSPATH_RESOURCE_LOCATIONS = {
             "classpath:/META-INF/resources/", "classpath:/resources/",

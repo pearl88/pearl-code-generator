@@ -9,8 +9,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @since 2022/6/29
  */
 @SpringBootApplication
-public class GeneratorApp {
+public class GeneratorApplication {
     public static void main(String[] args) {
-        SpringApplication.run(GeneratorApp.class,args);
+        SpringApplication.run(GeneratorApplication.class,args);
     }
 }

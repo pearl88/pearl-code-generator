@@ -1,10 +1,6 @@
 {
-  "homeInfo": {
-    "title": "首页",
-    "href": "/welcome"
-  },
   "logoInfo": {
-    "title": "Prime",
+    "title": "PEARL",
     "image": "images/logo.png",
     "href": ""
   },
