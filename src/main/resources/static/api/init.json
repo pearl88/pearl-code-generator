@@ -1,0 +1,35 @@
+{
+  "homeInfo": {
+    "title": "首页",
+    "href": "/welcome"
+  },
+  "logoInfo": {
+    "title": "Prime",
+    "image": "images/logo.png",
+    "href": ""
+  },
+  "menuInfo": [
+    {
+      "title": "Java代码",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "数据源管理",
+          "href": "datasource",
+          "icon": "fa fa-home",
+          "target": "_self"
+        }
+      ]
+    },
+    {
+      "title": "前端代码",
+      "icon": "fa fa-lemon-o",
+      "href": "",
+      "target": "_self",
+      "child": [
+      ]
+    }
+  ]
+}
